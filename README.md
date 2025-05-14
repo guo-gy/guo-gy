@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @guo-gy
+- 👀 I’m interested in **[Artificial Intelligence, Web Development, Open Source Projects]**.
+- 🌱 I’m currently learning **[Astro+tailwindcss frontend development]**.
+- 💞️ I’m looking to collaborate on **[a HarmonyOS health assistant based on DeepSeek]**, or join other projects. I'm very willing to participate and learn more technologies from them.
+- 📫 How to reach me: **[devguogy@gmail.com]** - If you have a suitable project and are willing to mentor a newcomer, please feel free to contact me. I'm eager to learn and contribute!
